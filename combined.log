@@ -802,3 +802,9 @@
 {"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
 {"level":"info","message":"la base de données est prête","service":"user-service"}
 {"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
