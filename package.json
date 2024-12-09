@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "preinstall": "npm install --global node-gyp",
+  "install": "npm rebuild sqlite3",
     "build": "npx tsc",
     "start": "node dist/main.js",
     "dev": "nodemon main.ts"
@@ -26,6 +28,7 @@
     "@typescript-eslint/eslint-plugin": "^8.17.0",
     "@typescript-eslint/parser": "^8.17.0",
     "eslint": "^9.16.0",
+    "node-gyp": "^11.0.0",
     "nodemon": "^3.1.7",
     "ts-node": "^10.9.2"
   }
