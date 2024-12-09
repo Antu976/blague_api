@@ -1,0 +1,804 @@
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Route principale","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Route principale","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Route principale","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Route principale","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Route principale","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"error","message":"Erreur lors de la récupération de la blague: SequelizeDatabaseError: SQLITE_ERROR: no such column: NaN","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"error","message":"Erreur lors de la récupération de la blague: SequelizeDatabaseError: SQLITE_ERROR: no such column: NaN","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"error","message":"Erreur lors de la récupération de la blague: SequelizeDatabaseError: SQLITE_ERROR: no such column: NaN","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"error","message":"Erreur lors de la récupération de la blague: SequelizeDatabaseError: SQLITE_ERROR: no such column: NaN","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"error","message":"Erreur lors de la récupération de la blague: SequelizeDatabaseError: SQLITE_ERROR: no such column: NaN","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"error","message":"Erreur lors de la récupération de la blague: SequelizeDatabaseError: SQLITE_ERROR: no such column: NaN","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"error","message":"Erreur lors de la récupération de la blague: SequelizeDatabaseError: SQLITE_ERROR: no such column: NaN","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"error","message":"Erreur lors de la récupération de la blague: SequelizeDatabaseError: SQLITE_ERROR: no such column: NaN","service":"user-service"}
+{"level":"info","message":"Notre serveur tourne sur http://localhost:3000","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
+{"level":"info","message":"la base de données est prête","service":"user-service"}
